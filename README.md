@@ -20,7 +20,7 @@ This script is designed to perform a brute-force attack on a website login form.
 1. Clone this repository to your local machine.
 2. Navigate to the repository directory.
    
-  - git clone https://github.com/kakarot00/web-login-brute.py.git
+  - git clone https://github.com/kakarot0O/web-login-brute.py.git
   - cd login-brute-force
 
 3. Open the script and provide the necessary information:
